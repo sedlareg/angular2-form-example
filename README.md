@@ -1,6 +1,6 @@
 # Simple Form App
 
-> A simple voting app that resembles a minimal-reddit link voting app in Angular 2.
+> A simple voting app that resembles a minimal-reddit link voting app in Angular 2. Based on sample chapter from https://www.ng-book.com/
 
 ## Dependencies
 
@@ -25,7 +25,7 @@ by running the command:
 npm run go
 ```
 
-Then visit [http://localhost:8080](http://localhost:8080) in your browser. You should see an application with the header `Angular 2 Simple Reddit`. 
+Then visit [http://localhost:8080](http://localhost:8080) in your browser. You should see an application with the header `Angular 2 - Simple Form Example`. 
 
 
 ## Other Files (advanced)
